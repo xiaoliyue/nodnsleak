@@ -4,8 +4,8 @@ DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,stripecdn.com
 DOMAIN-SUFFIX,oaistatic.com
-DOMAIN-SUFFIX,a.nel.cloudflare.com
 DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-KEYWORD,a.nel
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,openaiapi
 DOMAIN-KEYWORD,openaipublic
